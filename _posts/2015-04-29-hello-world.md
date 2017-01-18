@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 常想 App
+title: 常想
 ---
 
 <h2>{{ page.title }}</h2>
