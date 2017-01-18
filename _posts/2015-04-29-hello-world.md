@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hello, World
+title: 常想 App
 ---
 
 <h2>{{ page.title }}</h2>
